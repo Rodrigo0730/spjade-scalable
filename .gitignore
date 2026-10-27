@@ -1,0 +1,11 @@
+data
+data/
+results/
+efficiency/**/*.rds
+*.rds
+*.rda
+*.RData
+.Rhistory
+.Ruserdata
+.Rproj.user/
+.DS_Store

@@ -1,0 +1,15 @@
+MASS
+Matrix
+spdep
+cowplot
+dplyr
+ggplot2
+patchwork
+RColorBrewer
+doRNG
+doMPI
+doParallel
+SpatialBSS
+dplyr
+sf
+sp
